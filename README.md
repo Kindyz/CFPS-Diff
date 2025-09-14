@@ -5,7 +5,7 @@
 This repository contains the code to our paper "Contrast Flow Pattern and Cross-Phase Specificity-Aware Diffusion Model for NCCT-to-Multiphase CECT Synthesis".
 
 # Results
-<img src="https://github.com/Kindyz/CBSI-debug/blob/main/sample_png/Framework.png" width="800px">
+<img src="https://github.com/Kindyz/CFPS-Diff/blob/main/Visualization.png" width="800px">
 
 # Setup Environment
 In order to run our model, we suggest you create a virtual environment
@@ -38,4 +38,5 @@ In the inference stage, synthesis and identification are performed together. You
 ```
 python ./main/Inference.py
 ```
+
 
